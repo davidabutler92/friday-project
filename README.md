@@ -7,7 +7,7 @@
 #### By _**{David Butler}**_
 
 ## Description
-#### Made a page about 
+#### Made a page about Magic: The Gathering
 
 ## Setup/Installation Requirements
 * Clone repository @ [Click here](https://github.com/davidabutler92/friday-project)
