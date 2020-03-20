@@ -4,3 +4,15 @@
   color: rgb(197, 42, 21);
 
 }
+
+.info img{
+  width:100px;
+  height:150px;
+}
+
+.info_text{
+  border: 15px solid rgb(197, 42, 21);
+  padding: 10px;
+  display:inline-block;
+  margin:0 0 0 20px;
+}
