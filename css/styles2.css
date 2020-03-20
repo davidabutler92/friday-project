@@ -29,3 +29,11 @@ span {
   display:block;
   z-index:999;
 }
+
+body {
+background-color: bisque;
+}
+
+head {
+  background-color: aqua;
+}
