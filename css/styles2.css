@@ -37,3 +37,8 @@ background-color: rgb(250, 220, 184);
 head {
   background-color: aqua;
 }
+
+img,
+object {
+  max-width: 100%;
+}
