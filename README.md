@@ -12,8 +12,7 @@
 ## Setup/Installation Requirements
 * Clone repository @ [Click here](https://github.com/davidabutler92/friday-project)
 * Open friday-project
-* 
-* 
+* To see on gh-pages [Click here](https://davidabutler92.github.io/friday-project/)  
 * 
 
 ## Known Bugs 
